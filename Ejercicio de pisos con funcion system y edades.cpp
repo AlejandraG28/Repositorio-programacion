@@ -378,7 +378,7 @@ do {
 														else 
 														{
 															if (e2<=10)
-															cout << "Bienvenido a cine para niños" <<endl;	
+															cout << "Bienvenido a cine para niÃ±os" <<endl;	
 														}
 													}																								
 									cout << "ingrese la segunda edad: ";
@@ -396,7 +396,7 @@ do {
 														else 
 														{
 															if (e2<=10)
-															cout << "Bienvenido a cine para niños" <<endl;	
+															cout << "Bienvenido a cine para niÃ±os" <<endl;	
 														}
 													}
 									cout << "ingrese la tercera edad: ";
@@ -414,7 +414,7 @@ do {
 														else 
 														{
 															if (e3<=10)
-															cout << "Bienvenido a cine para niños" <<endl;	
+															cout << "Bienvenido a cine para niÃ±os" <<endl;	
 														}
 													}
 									suma = e1+e2+e3;											
@@ -437,7 +437,7 @@ do {
 														else 
 														{
 															if (e4<=10)
-															cout << "Bienvenido a cine para niños" <<endl;	
+															cout << "Bienvenido a cine para niÃ±os" <<endl;	
 														}
 													}
 												cout << "ingrese la quinta edad: ";
@@ -457,7 +457,7 @@ do {
 														else 
 														{
 															if (e5<=10)
-															cout << "Bienvenido a cine para niños" <<endl;
+															cout << "Bienvenido a cine para niÃ±os" <<endl;
 															cout << "Han ingresado cinco personas a la sala" <<endl;	
 														}
 														
@@ -491,6 +491,7 @@ do {
 								cout << "2 OFICINA dos"<< endl;
 								cout << "3 OFICINA tres"<< endl;
 								cout << "4 OFICINA cuatro"<< endl;
+						cout <<  "hello kitty";
 								cout << "5 OFICINA cinco"<< endl;
 								cout << "6 OFICINA seis"<< endl;
 								cout << "7 OFICINA siete"<< endl;
